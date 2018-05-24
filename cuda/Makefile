@@ -30,4 +30,4 @@ clean:
 	go clean
 
 doc:
-	godoc github.com/bigbigbigfish/cuda5/cu > README
+	godoc github.com/bigbigbigfish/gocuda/cu > README

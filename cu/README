@@ -1,7 +1,7 @@
 PACKAGE
 
 package cu
-    import "github.com/bigbigbigfish/cuda5/cu"
+    import "github.com/bigbigbigfish/gocuda/cu"
 
     Go bindings for the CUDA driver API.
 

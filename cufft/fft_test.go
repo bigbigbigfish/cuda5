@@ -2,7 +2,7 @@ package cufft
 
 import (
 	"fmt"
-	"github.com/bigbigbigfish/cuda5/cu"
+	"github.com/bigbigbigfish/gocuda/cu"
 	"unsafe"
 )
 

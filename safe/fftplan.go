@@ -4,8 +4,8 @@ package safe
 // Base implementation for all FFT plans.
 
 import (
-	"github.com/bigbigbigfish/cuda5/cu"
-	"github.com/bigbigbigfish/cuda5/cufft"
+	"github.com/bigbigbigfish/gocuda/cu"
+	"github.com/bigbigbigfish/gocuda/cufft"
 )
 
 // Base implementation for all FFT plans.

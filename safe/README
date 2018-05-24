@@ -1,7 +1,7 @@
 PACKAGE
 
 package safe
-    import "github.com/bigbigbigfish/cuda5/safe"
+    import "github.com/bigbigbigfish/gocuda/safe"
 
     Safe and more idiomatic wrappers for the low-level CUDA functions.
 

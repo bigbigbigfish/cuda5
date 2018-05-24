@@ -8,7 +8,7 @@ package cufft
 import "C"
 
 import (
-	"github.com/bigbigbigfish/cuda5/cu"
+	"github.com/bigbigbigfish/gocuda/cu"
 	"unsafe"
 )
 

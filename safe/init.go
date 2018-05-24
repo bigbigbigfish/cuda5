@@ -1,7 +1,7 @@
 package safe
 
 import (
-	"github.com/bigbigbigfish/cuda5/cu"
+	"github.com/bigbigbigfish/gocuda/cu"
 	"runtime"
 )
 

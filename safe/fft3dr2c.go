@@ -2,7 +2,7 @@ package safe
 
 import (
 	"fmt"
-	"github.com/bigbigbigfish/cuda5/cufft"
+	"github.com/bigbigbigfish/gocuda/cufft"
 )
 
 // 3D single-precission real-to-complex FFT plan.

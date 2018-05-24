@@ -36,4 +36,4 @@ opt:
 	gofmt -w *.go
 
 doc:
-	godoc github.com/bigbigbigfish/cuda5/safe > README
+	godoc github.com/bigbigbigfish/gocuda/safe > README

@@ -36,4 +36,4 @@ opt:
 	gofmt -w *.go
 
 doc:
-	godoc github.com/barnex/cuda5 > README
+	godoc github.com/bigbigbigfish/cuda5 > README

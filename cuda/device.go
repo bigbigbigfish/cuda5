@@ -5,7 +5,7 @@ package cuda
 import "C"
 
 import (
-	"github.com/barnex/cuda5/cu"
+	"github.com/bigbigbigfish/cuda5/cu"
 )
 
 // Reset the current GPU device.
